@@ -1,0 +1,4 @@
+[submodule "ds000001"]
+	path = ds000001
+	url = git@github.com:OpenNeuroDatasets/ds000001.git
+	datalad-id = 7cce28be-8703-11e8-bf98-0242ac120023
